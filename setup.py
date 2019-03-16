@@ -26,7 +26,7 @@ setup(
         'python-multipart>=0.0.5',
         'django-environ==0.4.5',
         # 'graphene_utils @ https://github.com/gbozee/graphene-utils/archive/master.zip',
-        'graphene_utils @ git+https://github.com/gbozee/graphene-utils@0.2',
+        # 'graphene_utils @ git+https://github.com/gbozee/graphene-utils@master',
         'djangorestframework==3.7.7',
         'djangorestframework-jwt==1.11.0',
         'whitenoise==3.3.1',
