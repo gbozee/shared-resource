@@ -30,7 +30,7 @@ setup(
         'djangorestframework==3.7.7',
         'djangorestframework-jwt==1.11.0',
         'whitenoise==3.3.1',
-        'django-paystack @ git+https://github.com/gbozee/django-paystack@master'
+        # 'django-paystack @ git+https://github.com/gbozee/django-paystack@master'
     ],
     dependency_links=[],
     classifiers=[
